@@ -11,6 +11,6 @@ Install using npm
 
 or yarn
 
-``yarn add react-native-space-box``
+``yarn add react-native-spacer-box``
 
 Import and use
