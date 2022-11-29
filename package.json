@@ -12,8 +12,12 @@
     },
     "author": "Daniel Riera",
     "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/DanielRiera/react-native-spacer/issues"
+    },
+    "homepage": "https://github.com/DanielRiera/react-native-spacer",
     "peerDependencies": {
-      "react-native": "^0.60.0"
+      "react-native": "*"
     }
   }
   
